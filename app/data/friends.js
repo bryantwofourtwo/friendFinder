@@ -49,7 +49,7 @@ var friends = [
         ]
     },
     {
-        name: "Boof",
+        name: "Goof",
         photo: "http://c2.peakpx.com/wallpaper/502/55/581/iguana-green-lizard-wallpaper-thumb.jpg",
         scores: [
             "3",
